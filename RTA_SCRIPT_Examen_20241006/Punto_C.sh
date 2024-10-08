@@ -17,10 +17,11 @@ do
 	GRUPO=$(echo  $LINEA |awk -F ',' '{print $2}')
 	if [ $(grep $GRUPO -c /etc/group) == 0 ]; then
 		sudo groupadd $GRUPO
-		sudo useradd -m -p "$HASH" -s /bin/bash -G $GRUPO $USUARIO
+		#sudo useradd -m -p "$HASH" -s /bin/bash -G $GRUPO $USUARIO
 		#echo "------------------------"
 		#echo 
 	fi
+		sudo useradd -m -p "$HASH" -s /bin/bash -G $GRUPO $USUARIO
 done
 IFS=$ANT_IFS
 
