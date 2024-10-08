@@ -3,9 +3,9 @@
 # Lista de usuarios
 ####
 
-1c2_2024_A1, p1c2_2024_gAlumno
-1c2_2024_A2, p1c2_2024_gAlumno
-1c2_2024_A3, p1c2_2024_gAlumno
-1c2_2024_P1, p1c2_2024_gProfesores
+1c2_2024_A1,p1c2_2024_gAlumno
+1c2_2024_A2,p1c2_2024_gAlumno
+1c2_2024_A3,p1c2_2024_gAlumno
+1c2_2024_P1,p1c2_2024_gProfesores
 
 
