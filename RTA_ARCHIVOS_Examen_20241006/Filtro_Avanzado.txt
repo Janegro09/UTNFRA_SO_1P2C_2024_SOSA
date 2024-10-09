@@ -1,0 +1,4 @@
+Mi IP Publica es: 190.246.11.144
+Mi usuario es: vboxuser
+El Hash de mi Usuario es: $y$j9T$YwLyMzNRZdVRPp5elbkoa.$xiey1SWUW.i0AXGj9mWUp88Ua7yuVNAXjTNhuXli315
+La URL de mi repositorio es: https://github.com/Janegro09/UTNFRA_SO_1P2C_2024_SOSA.git
