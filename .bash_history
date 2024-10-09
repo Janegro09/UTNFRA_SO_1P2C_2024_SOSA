@@ -357,3 +357,26 @@ vim README.md
 git add .
 git commit -m "FIX: correcciones readme"
 history -a
+cp /home/vboxuser/.bash_history  /home/vboxuser/repogit/UTNFRA_SO_1P2C_2024_SOSA/
+ls -la
+git add .ñ
+git add .
+git commit -m "ADD:
+history adentro"
+git push
+exit
+cd /home/vboxuser/repogit/UTNFRA_SO_1P2C_2024_SOSA/
+ls -la
+cd RTA_SCRIPT_Examen_20241006
+ls -la
+vim Punto_D.sh 
+./Punto_D.sh 
+cd
+ls -la
+cd E
+tree Estructura_Asimetrica/ --noreport | pr -T -s' ' -w 80 --column 4
+cd /home/vboxuser/repogit/UTNFRA_SO_1P2C_2024_SOSA/
+git status
+git add .
+git commit -m "FIX: cambios en punto D"
+git push
